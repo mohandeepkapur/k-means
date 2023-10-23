@@ -12,7 +12,7 @@ import random as rnd
 def main(): # n = 20000 k = <30 is the coolest thing ever. the density of points is so much -> k = 600 tho
     #INPUTS: 
     n = 500 # of points
-    z = 2 # of dimensions --> above 2, HUGE loss of information due to mapping from R^(>2) to R2 visualy
+    z = 2 # of dimensions --> above 2, loss of information due to mapping from R^(>2) to R2 visualy
     domain = 100
     A = [] # n x z
     k = 6 #if k very high but k<n, error still thrown, think issue w sort logic
