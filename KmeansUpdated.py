@@ -3,6 +3,8 @@
 # -----------------------------------------------------------------------------------------------
 # -----------------------------------------------------------------------------------------------
 
+# FOR N-DIMENSIONAL PROGRAM, look at MAIN.PY
+
 import numpy as np
 import matplotlib.pyplot as plt
 import random as rnd
